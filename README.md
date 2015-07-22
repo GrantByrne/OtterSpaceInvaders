@@ -7,19 +7,23 @@ Some of the Materials Used in this Project
 ------------------------------------------
 
 **Framework**
+
 	- Otter2D
-	
-	![Otter2d Logo](./Images/otterlogo.png)
+	- 
+![Otter2d Logo](./Images/otterlogo.png)
 
 **Music**
+
 	- http://opengameart.org/content/unexpected-trouble
 	- http://opengameart.org/content/let-the-games-begin-0
 	
 **Sound Effects**
+
 	- Atari Booms (dklon) - http://opengameart.org/content/atari-booms
 	- Laser-Fire (dklon) - http://opengameart.org/content/laser-fire
 	
 **Fonts**
+
 	- 8bit-wonder - http://openfontlibrary.org/en/font/8bit-wonder
 	- Press Start 2P - http://openfontlibrary.org/en/font/press-start-2p
 
