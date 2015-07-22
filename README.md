@@ -3,7 +3,7 @@ Otter Space Invaders
 
 This is the game space invaders recreated with the Otter2D Framework.
 
-Some of the Materials Used in this Project
+Used in this Project
 ------------------------------------------
 
 **Framework**
