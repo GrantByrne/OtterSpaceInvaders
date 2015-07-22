@@ -9,7 +9,7 @@ Some of the Materials Used in this Project
 **Framework**
 
 	- Otter2D
-	- 
+
 ![Otter2d Logo](./Images/otterlogo.png)
 
 **Music**
